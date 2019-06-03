@@ -5,7 +5,7 @@ This set of notebooks presents some material for atomic and molecular angular mo
 2. Application to rotational state-resolved scenarios. (In preparation.)
 3. [Application to multi-state cases and wavepackets.](https://github.com/phockett/Quantum-Metrology-with-Photoelectrons/blob/master/Alignment/Alignment-3.ipynb)
 
-For more details and background, see a [Very Brief Introduction to Angular Momentum (lecture notes)](https://doi.org/10.6084/m9.figshare.4003371.v2), and the textbooks from Blum [1] and Zare [2]. For a good general introduction to density matrices, try Fano's paper [Description of States in Quantum Mechanics by Density Matrix and Operator Techniques](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74). The treatment herein is drawn primarily from Blum. 
+For more details and background, see a [Very Brief Introduction to Angular Momentum (lecture notes)](https://doi.org/10.6084/m9.figshare.4003371.v2), and the textbooks from Blum [1] and Zare [2]. For a good general introduction to density matrices, try Fano's paper [Description of States in Quantum Mechanics by Density Matrix and Operator Techniques](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74) [6]. The treatment herein is drawn primarily from Blum. 
 
 *Note: some maths rendering issues may be apparent with NBviewer and some browsers.*
 
@@ -21,3 +21,6 @@ For more details and background, see a [Very Brief Introduction to Angular Momen
 [4] Reid, K. L., Leahy, D. J., & Zare, R. N. (1991). Effect of breaking cylindrical symmetry on photoelectron angular distributions resulting from resonance-enhanced two-photon ionization. The Journal of Chemical Physics, 95(3), 1746. https://doi.org/10.1063/1.461023
 
 [5] Fano, U., & Macek, J. H. (1973). Impact Excitation and Polarization of the Emitted Light. Reviews of Modern Physics, 45(4), 553–573. https://doi.org/10.1103/RevModPhys.45.553
+
+[6] U. Fano Description of States in Quantum Mechanics by Density Matrix and Operator Techniques Rev. Mod. Phys. 29, 74 (1957). https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74
+
