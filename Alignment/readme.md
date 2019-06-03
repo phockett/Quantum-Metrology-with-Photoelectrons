@@ -5,7 +5,7 @@ This set of notebooks presents some material for atomic and molecular angular mo
 2. Application to rotational state-resolved scenarios. (In preparation.)
 3. [Application to multi-state cases and wavepackets.](https://github.com/phockett/Quantum-Metrology-with-Photoelectrons/blob/master/Alignment/Alignment-3.ipynb)
 
-For more details and background, see a [Very Brief Introduction to Angular Momentum (lecture notes)](https://doi.org/10.6084/m9.figshare.4003371.v2), and the textbooks from Blum [1] and Zare [2]. The treatment herein is drawn primarily from Blum.
+For more details and background, see a [Very Brief Introduction to Angular Momentum (lecture notes)](https://doi.org/10.6084/m9.figshare.4003371.v2), and the textbooks from Blum [1] and Zare [2]. For a good general introduction to density matrices, try Fano's paper [Description of States in Quantum Mechanics by Density Matrix and Operator Techniques](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74). The treatment herein is drawn primarily from Blum. 
 
 *Note: some maths rendering issues may be apparent with NBviewer and some browsers.*
 
