@@ -22,5 +22,5 @@ For more details and background, see a [Very Brief Introduction to Angular Momen
 
 [5] Fano, U., & Macek, J. H. (1973). Impact Excitation and Polarization of the Emitted Light. Reviews of Modern Physics, 45(4), 553–573. https://doi.org/10.1103/RevModPhys.45.553
 
-[6] U. Fano (1957). Description of States in Quantum Mechanics by Density Matrix and Operator Techniques. Rev. Mod. Phys. 29, 74. https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74
+[6] Fano, U. (1957). Description of States in Quantum Mechanics by Density Matrix and Operator Techniques. Rev. Mod. Phys. 29, 74. https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.29.74
 
